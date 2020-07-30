@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+}
+
+
+.display-4 {
+    font-weight: 600;
+    }
+    
+    .lead{
+        font-weight: 350;
+        line-height: 3.5;
+        }
